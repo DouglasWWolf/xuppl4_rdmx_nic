@@ -8,10 +8,7 @@
 //====================================================================================
 
 /*
-    This is an example (and template) for an AXI4-lite slave
-
-    This slave accepts 32-bit values written to a pair of register, and allows
-    their sum to be read from a third register
+    This provides status and control registers for the rdmx_nic design
 */
 
 
